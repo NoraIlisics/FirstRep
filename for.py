@@ -17,7 +17,7 @@ print(total2)
 # Your program should only contain a single loop.
 
 number = int(input("Choose a number: "))
-num_fact = 1
+num_fact = 123412313241234123412341234
 
 for i in range(1, number+1):
     num_fact *= i 
